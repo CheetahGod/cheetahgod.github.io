@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/02/17/bridge3.jpg"
 layout: landing-page
 heading: Welcome to Jason's Website
 partners:
@@ -32,3 +32,4 @@ menu:
     weight: 1
 
 ---
+o

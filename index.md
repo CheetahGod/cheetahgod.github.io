@@ -18,4 +18,3 @@ menu:
     weight: 1
 
 ---
-o
